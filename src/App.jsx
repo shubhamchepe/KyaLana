@@ -640,7 +640,7 @@ const stopVoiceAddress = () => {
       <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 w-full sm:max-w-md">
        <div className="text-center mb-8">
   <img 
-    src="/public/logo.png"  // <-- Replace with your actual image path
+    src="/logo.png"  // <-- Replace with your actual image path
     alt="KyaLana Logo"
     className="w-24 h-24 mx-auto mb-4"
   />
@@ -905,7 +905,7 @@ const stopVoiceAddress = () => {
           <div className="flex items-center justify-between w-full">
             <div className="flex items-center space-x-2 sm:space-x-3">
                <img 
-    src="/public/logo.png"  // <-- Replace with your actual image path
+    src="/logo.png"  // <-- Replace with your actual image path
     alt="KyaLana Logo"
     className="w-12 h-12 mx-auto mb-4"
   />
